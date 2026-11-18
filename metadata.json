@@ -1,0 +1,6 @@
+{
+  "name": "FinMate",
+  "description": "Automated UPI personal finance MVP and full Kotlin Jetpack Compose Android codebase for Indian college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
